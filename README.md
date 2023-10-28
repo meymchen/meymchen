@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meymchen
-- 👀 I’m interested in Machine Learning and Computational Fluid Dynamics
-- 🌱 I’m currently studying on Reinforcement Learning and C programming
-- 💞️ I’m looking to collaborate on the applications of Reinforcement Learning
+- 👀 I’m interested in Computational Fluid Dynamics and Machine Learning
+- 🌱 I’m currently studying on Rust programming and Natural Language Processing (NLP)
+- 💞️ I’m looking to collaborate on the applications of Reinforcement Learning (RL) and NLP
 - 📫 How to reach me? An email to meymchen@outlook.com is always good
 
 <!---

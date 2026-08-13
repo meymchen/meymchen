@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @meymchen
-- 👀 I’m interested in Computational Fluid Dynamics and Machine Learning
-- 🌱 I’m currently studying on Rust programming and Natural Language Processing (NLP)
-- 💞️ I’m looking to collaborate on the applications of Reinforcement Learning (RL) and NLP
-- 📫 How to reach me? An email to meymchen@outlook.com is always good
+- 👋 Hi, I’m @meymchen — AI & computational fluid-dynamics engineer — Python, TypeScript, Rust, Fortran
+- 👀 I’m interested in Computational Fluid Dynamics, agentic engineering, and project management
+- 🌱 I’m currently building agentic engineering infrastructure while raising my kid
+- 💞️ I’m looking to collaborate on agentic engineering, AI developer tools, and interesting open-source contributions
 
 <!---
 meymchen/meymchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

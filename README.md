@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meymchen — AI & computational fluid-dynamics engineer — Python, TypeScript, Rust, Fortran
+- 👋 Hi, I’m @meymchen — AI & CFD Engineer — Python, TypeScript, Rust, Fortran
 - 👀 I’m interested in Computational Fluid Dynamics, agentic engineering, and project management
 - 🌱 I’m currently building agentic engineering infrastructure while raising my kid
 - 💞️ I’m looking to collaborate on agentic engineering, AI developer tools, and interesting open-source contributions

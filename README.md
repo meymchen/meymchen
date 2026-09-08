@@ -2,6 +2,7 @@
 - 👀 I’m good at agentic engineering, Computational Fluid Dynamics and project management
 - 🌱 I’m currently building agentic engineering infrastructure while raising my kid
 - 💞️ I’m looking to collaborate on agentic engineering, AI developer tools, and interesting open-source contributions
+- ⚒️ Just code to solve real problems and needs, not to serve the language.
 
 <!---
 meymchen/meymchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
